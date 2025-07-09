@@ -8,7 +8,7 @@ from google.adk.tools.tool_context import ToolContext
 
 # ------------------- SQL Server bağlantı bilgileri -------------------
 
-server = 'DESKTOP-H6SIL9M\SQLEXPRESS'
+server = 'YOUR SERVER ACOUNT' # ---------------------------- WRITE HERE YOUR ACOUNT -------------------
 database = 'Akakce'
 
 
